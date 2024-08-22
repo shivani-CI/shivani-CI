@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivani-CI
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on my first project with colleagues 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to work on my third project 
 - 📫 How to reach me - email: shivaniseth_1@hotmail.com or Slack
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love Tanzanzia, especially loved being around wild animals in their natural habitat in Serengeti, Lake Manyara, Tarangire and Mount Kilimanjaro National Park
